@@ -1,6 +1,6 @@
 # About Me 🙋‍♀️
 
-Hi there! I'm **Khushi** 👋, a passionate and curious learner currently pursuing a **BSc at Kirori Mal College**. I aspire to become a **data analyst professional** and later an entrepreneur in the field of **education and research**.
+Hi there! I'm **Khushi** 👋, a passionate and curious learner currently pursuing a **BSc Mathematics at Kirori Mal College**. I aspire to become a **data analyst professional** and later an entrepreneur in the field of **education and research**.
 
 ---
 
