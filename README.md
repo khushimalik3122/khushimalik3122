@@ -23,13 +23,28 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 
 ---
 
-## Tools & Technologies
 
-- **Programming:** Python, SQL, Jupyter  
-- **Visualization:** Power BI, Matplotlib, Seaborn, Excel  
-- **ML/AI:** Scikit-learn, TensorFlow (beginner), Hugging Face, OpenAI  
-- **Soft Skills:** Teamwork, Leadership (NCC), Communication  
-- **Platforms:** GitHub, Zoom, Slack, Google Workspace  
+## 🛠️ Skills & Core Competencies
+
+### 📊 Data Analysis & Visualization
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Microsoft Excel, Jupyter Notebook
+- **Capabilities:** Data cleaning, EDA, statistical analysis, interactive dashboarding, data storytelling
+
+### 🤖 Artificial Intelligence & Machine Learning
+- **Frameworks & Libraries:** scikit-learn, TensorFlow (beginner), Hugging Face Transformers, OpenAI API
+- **Domains:** Predictive modeling, NLP, LLM fine-tuning, supervised learning workflows
+
+### 📚 Research & Academic Foundations
+- **Core Subjects:** Linear Algebra, Probability, Calculus, Abstract Algebra, Research Methodology
+- **Applications:** Mathematical modeling, hypothesis testing, theoretical proof structuring
+
+### 🗣️ Communication & Leadership
+- **Skills:** Public speaking, presentations, team collaboration, analytical thinking, strategic planning
+- **Extras:** NCC cadet experience (leadership, discipline, teamwork under pressure)
+
+### 🌐 Remote Collaboration Tools
+- Zoom, Google Workspace (Docs, Sheets, Slides), Slack, GitHub
+
 ---
 
 ##  Experience
