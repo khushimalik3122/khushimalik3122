@@ -59,6 +59,11 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 - Salary prediction model with Random Forest  
 - Insights delivered through visual storytelling  
 
+### Research coordinator and head of linkedin page + cohead of data arrangement committee -- Dakshi(nov 2024-present)
+
+### data scientist Freelancer-- Zindi.africa
+with top 10 world rank 
+
 ---
 
 ##  Let's Connect
