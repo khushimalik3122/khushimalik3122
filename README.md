@@ -58,8 +58,8 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 - Extracted job market trends from 2,000+ listings  
 - Salary prediction model with Random Forest  
 - Insights delivered through visual storytelling  
----
-## 🔹 Research Coordinator  
+
+### Research Coordinator  
 **Organization:** Dakshi Movement  
 **Type:** Full-time  
 **Duration:** Nov 2024 – Jul 2025  
@@ -70,9 +70,9 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 - Attended national-level seminars and workshops related to Vedic sciences and traditional knowledge.
 - Collaborated with scholars and mentors to co-create documentation and presentations.
 - **Skills:** Vedic Research, Analytical Thinking, Public Speaking, Content Writing, Critical Reasoning
----
 
-## 🔹 Report Compilation Committee Co-Head  
+
+### Report Compilation Committee Co-Head  
 **Organization:** DAKSHI.108  
 **Type:** Full-time  
 **Duration:** Jul 2025 – Present  
@@ -81,9 +81,9 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 - Led report compilation and documentation efforts for Dakshi.108’s flagship events and campaigns.
 - Coordinated team efforts to ensure accuracy, formatting consistency, and timely delivery.
 - Streamlined workflow using version control and collaborative tools (Google Sheet, Notion, Python).
----
 
-## Freelance Data Scientist  
+
+### Freelance Data Scientist  
 **Organization:** Zindi Africa  
 **Type:** Freelance  
 **Duration:** Apr 2025 – Present  
@@ -93,9 +93,9 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 - **Top 10** in Amini GeoFM (crop classification from satellite imagery).
 - Handled data preprocessing, model development, and leaderboard optimization.
 - **Skills:** Data Science, Geospatial AI, Clinical Reasoning, ML Model Optimization
----
 
-## 🔹 NCC Cadet  
+
+###  NCC Cadet  
 **Organization:** National Cadet Corps - India  
 **Type:** Full-time  
 **Duration:** Oct 2024 – Present  
