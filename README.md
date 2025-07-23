@@ -58,11 +58,53 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 - Extracted job market trends from 2,000+ listings  
 - Salary prediction model with Random Forest  
 - Insights delivered through visual storytelling  
+---
+## 🔹 Research Coordinator  
+**Organization:** Dakshi Movement  
+**Type:** Full-time  
+**Duration:** Nov 2024 – Jul 2025  
+**Location:** India (On-site)
 
-### Research coordinator and head of linkedin page + cohead of data arrangement committee -- Dakshi(nov 2024-present)
+- Conducted in-depth research and discourse on Vedic texts, culture, and philosophy.
+- Participated in weekly debates, peer discussions, and research reviews on assigned topics.
+- Attended national-level seminars and workshops related to Vedic sciences and traditional knowledge.
+- Collaborated with scholars and mentors to co-create documentation and presentations.
+- **Skills:** Vedic Research, Analytical Thinking, Public Speaking, Content Writing, Critical Reasoning
+---
 
-### data scientist Freelancer-- Zindi.africa
-with top 10 world rank 
+## 🔹 Report Compilation Committee Co-Head  
+**Organization:** DAKSHI.108  
+**Type:** Full-time  
+**Duration:** Jul 2025 – Present  
+**Location:** New Delhi, Delhi, India (Hybrid)
+
+- Led report compilation and documentation efforts for Dakshi.108’s flagship events and campaigns.
+- Coordinated team efforts to ensure accuracy, formatting consistency, and timely delivery.
+- Streamlined workflow using version control and collaborative tools (Google Sheet, Notion, Python).
+---
+
+## Freelance Data Scientist  
+**Organization:** Zindi Africa  
+**Type:** Freelance  
+**Duration:** Apr 2025 – Present  
+**Location:** South Africa (Remote)
+
+- Participated in competitive AI challenges in agriculture and healthcare domains.
+- **Top 10** in Amini GeoFM (crop classification from satellite imagery).
+- Handled data preprocessing, model development, and leaderboard optimization.
+- **Skills:** Data Science, Geospatial AI, Clinical Reasoning, ML Model Optimization
+---
+
+## 🔹 NCC Cadet  
+**Organization:** National Cadet Corps - India  
+**Type:** Full-time  
+**Duration:** Oct 2024 – Present  
+**Location:** New Delhi, Delhi, India (On-site)
+
+- Trained in leadership, operational strategy, and national service values.
+- Participated in defense drills, physical fitness modules, and social service camps.
+- **Skills:** Discipline, Planning, Crisis Response, Team Management
+
 
 ---
 
