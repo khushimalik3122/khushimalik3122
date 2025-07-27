@@ -24,25 +24,25 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 ---
 
 
-## 🛠️ Skills & Core Competencies
+##  Skills & Core Competencies
 
-### 📊 Data Analysis & Visualization
+### Data Analysis & Visualization
 - **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Microsoft Excel, Jupyter Notebook
 - **Capabilities:** Data cleaning, EDA, statistical analysis, interactive dashboarding, data storytelling
 
-### 🤖 Artificial Intelligence & Machine Learning
+###  Artificial Intelligence & Machine Learning
 - **Frameworks & Libraries:** scikit-learn, TensorFlow (beginner), Hugging Face Transformers, OpenAI API
 - **Domains:** Predictive modeling, NLP, LLM fine-tuning, supervised learning workflows
 
-### 📚 Research & Academic Foundations
+### Research & Academic Foundations
 - **Core Subjects:** Linear Algebra, Probability, Calculus, Abstract Algebra, Research Methodology
 - **Applications:** Mathematical modeling, hypothesis testing, theoretical proof structuring
 
-### 🗣️ Communication & Leadership
+###  Communication & Leadership
 - **Skills:** Public speaking, presentations, team collaboration, analytical thinking, strategic planning
 - **Extras:** NCC cadet experience (leadership, discipline, teamwork under pressure)
 
-### 🌐 Remote Collaboration Tools
+###  Remote Collaboration Tools
 - Zoom, Google Workspace (Docs, Sheets, Slides), Slack, GitHub
 
 ---
@@ -52,13 +52,31 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 ### AI Researcher — Coding Jr (May 2025 – Present)  
 - Focus: LLMs, NLP, Python models  
 - Built custom AI text generation workflows  
-- Cross-functional AI solution deployment  
+- Cross-functional AI solution deployment   
 
-### Data Analyst Intern — Unified Mentor (Apr–May 2025)  
-- Extracted job market trends from 2,000+ listings  
-- Salary prediction model with Random Forest  
-- Insights delivered through visual storytelling  
+### Freelance Data Scientist  
+**Organization:** Zindi Africa  
+**Type:** Freelance  
+**Duration:** Apr 2025 – Present  
+**Location:** South Africa (Remote)
 
+- Participated in competitive AI challenges in agriculture and healthcare domains.
+- **Top 10** in Amini GeoFM (crop classification from satellite imagery).
+- Handled data preprocessing, model development, and leaderboard optimization.
+- **Skills:** Data Science, Geospatial AI, Clinical Reasoning, ML Model Optimization
+
+
+### Report Compilation Committee Co-Head  
+**Organization:** DAKSHI.108  
+**Type:** Full-time  
+**Duration:** Jul 2025 – Present  
+**Location:** New Delhi, Delhi, India (Hybrid)
+
+- Led report compilation and documentation efforts for Dakshi.108’s flagship events and campaigns.
+- Coordinated team efforts to ensure accuracy, formatting consistency, and timely delivery.
+- Streamlined workflow using version control and collaborative tools (Google Sheet, Notion, Python).
+
+  
 ### Research Coordinator  
 **Organization:** Dakshi Movement  
 **Type:** Full-time  
@@ -72,27 +90,12 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 - **Skills:** Vedic Research, Analytical Thinking, Public Speaking, Content Writing, Critical Reasoning
 
 
-### Report Compilation Committee Co-Head  
-**Organization:** DAKSHI.108  
-**Type:** Full-time  
-**Duration:** Jul 2025 – Present  
-**Location:** New Delhi, Delhi, India (Hybrid)
-
-- Led report compilation and documentation efforts for Dakshi.108’s flagship events and campaigns.
-- Coordinated team efforts to ensure accuracy, formatting consistency, and timely delivery.
-- Streamlined workflow using version control and collaborative tools (Google Sheet, Notion, Python).
 
 
-### Freelance Data Scientist  
-**Organization:** Zindi Africa  
-**Type:** Freelance  
-**Duration:** Apr 2025 – Present  
-**Location:** South Africa (Remote)
-
-- Participated in competitive AI challenges in agriculture and healthcare domains.
-- **Top 10** in Amini GeoFM (crop classification from satellite imagery).
-- Handled data preprocessing, model development, and leaderboard optimization.
-- **Skills:** Data Science, Geospatial AI, Clinical Reasoning, ML Model Optimization
+### Data Analyst Intern — Unified Mentor (Apr–May 2025)  
+- Extracted job market trends from 2,000+ listings  
+- Salary prediction model with Random Forest  
+- Insights delivered through visual storytelling
 
 
 ###  NCC Cadet  
