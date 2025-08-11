@@ -49,7 +49,7 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 
 ##  Experience
 
-### AI Researcher — Coding Jr (May 2025 – Present)  
+### AI Researcher — Coding Jr (May 2025 – July)  
 - Focus: LLMs, NLP, Python models  
 - Built custom AI text generation workflows  
 - Cross-functional AI solution deployment   
