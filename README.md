@@ -49,10 +49,26 @@ I'm **Khushi Malik**, a Mathematics undergrad at **Kirori Mal College (Universit
 
 ##  Experience
 
-### AI Researcher — Coding Jr (May 2025 – July)  
-- Focus: LLMs, NLP, Python models  
-- Built custom AI text generation workflows  
-- Cross-functional AI solution deployment   
+
+
+###  Planto AI — Internship (Remote)
+**Duration:** May 2025 – Present (4 months)  
+
+####  Roles & Timeline
+- **Lead AI Researcher** — Aug 2025 – Present · 1 month (India)  
+- **AI Researcher** — May 2025 – Jul 2025 · 3 months (New Delhi, India)  
+
+####  Key Contributions
+- **RAG (Retrieval-Augmented Generation)** — Conducted deep research on pipeline optimization, query structuring, and vector database integration.
+- **Tokenization & Prompt Compression** — Experimented with token-efficient strategies, including *text-to-prompt compression* for cost and latency reduction.
+- **Fine-tuning with HF Models** — Applied practical fine-tuning techniques using Hugging Face ecosystem on domain-specific datasets.
+- **Technical Presentations** — Delivered internal knowledge sessions on RAG, tokenization, and prompt engineering best practices.
+- **AI Coder VS Code Extension (Lead)** — Currently leading a team to design and develop an AI-powered coding assistant extension for VS Code.
+
+#### 🛠 Skills & Tools
+`Python` `Hugging Face Transformers` `LangChain` `RAG` `Vector Databases` `Prompt Engineering` `VS Code Extensions` `Git` `LLM Fine-tuning`
+
+
 
 ### Freelance Data Scientist  
 **Organization:** Zindi Africa  
